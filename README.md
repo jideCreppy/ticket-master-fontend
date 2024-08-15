@@ -1,3 +1,3 @@
-# Ticket Master Frontend (React, Typescript, Tailwind CSS)
+# Ticket Master Frontend (React, Typescript & Tailwind CSS)
 
 ###  - WIP
