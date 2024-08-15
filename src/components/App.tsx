@@ -21,7 +21,7 @@ const App = () => {
             className="mx-auto h-16 w-auto"
           />
           <h2 className="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">
-            Task Master
+            Ticket Master
           </h2>
         </div>
 
