@@ -21,7 +21,7 @@ const onLogin: SubmitHandler<LoginInput> = (data) => {
             htmlFor="email"
             className="block text-sm font-medium leading-6 text-gray-900"
           >
-            Email address
+            *Email address
           </label>
           <div className="mt-2">
             <input
@@ -45,7 +45,7 @@ const onLogin: SubmitHandler<LoginInput> = (data) => {
               htmlFor="password"
               className="block text-sm font-medium leading-6 text-gray-900"
             >
-              Password
+              *Password
             </label>
             <div className="text-sm">
               {/* <a href="/#" className="font-semibold text-indigo-600 hover:text-indigo-500">

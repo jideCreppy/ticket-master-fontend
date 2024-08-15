@@ -19,7 +19,7 @@ const RegistrationForm = () => {
       <form onSubmit={handleSubmit(onRegister)} className="space-y-6">
       <div>
           <label htmlFor="email" className="block text-sm font-medium leading-6 text-gray-900">
-            Name
+            *Name
           </label>
           <div className="mt-2">
             <input
@@ -37,7 +37,7 @@ const RegistrationForm = () => {
 
         <div>
           <label htmlFor="email" className="block text-sm font-medium leading-6 text-gray-900">
-            Email address
+            *Email address
           </label>
           <div className="mt-2">
             <input
@@ -57,7 +57,7 @@ const RegistrationForm = () => {
         <div>
           <div className="flex items-center justify-between">
             <label htmlFor="password" className="block text-sm font-medium leading-6 text-gray-900">
-              Password
+              *Password
             </label>
           </div>
           <div className="mt-2">
@@ -77,7 +77,7 @@ const RegistrationForm = () => {
         <div>
           <div className="flex items-center justify-between">
             <label htmlFor="password" className="block text-sm font-medium leading-6 text-gray-900">
-              Confirm Password
+              *Confirm Password
             </label>
           </div>
           <div className="mt-2">
